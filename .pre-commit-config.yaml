@@ -22,7 +22,7 @@ repos:
       - id: debug-statements
       - id: mixed-line-ending
   - repo: https://github.com/jumanjihouse/pre-commit-hook-yamlfmt
-    rev: 0.2.1
+    rev: 0.2.2
     hooks:
       - id: yamlfmt
         args: [--implicit_start, --mapping, '2', --offset, '2', --sequence, '4']
@@ -44,7 +44,7 @@ repos:
       - id: anti-trojan-source
         exclude: docs/diagrams/.*\.(png)$
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.13
+    rev: 0.7.14
     hooks:
       - id: mdformat
         additional_dependencies:
