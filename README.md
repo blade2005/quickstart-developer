@@ -16,6 +16,7 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
 
 ## Advanced Programming
 
