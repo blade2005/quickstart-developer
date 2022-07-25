@@ -7,6 +7,7 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
 - [Al Sweigart Twitch](https://www.twitch.tv/alsweigart)
 - [Learn Python Reddit](https://www.reddit.com/r/learnpython/)
+  - [Wiki](https://www.reddit.com/r/learnpython/wiki/index/)
 - [Python Reddit](https://www.reddit.com/r/python/)
 - [r/python discord](https://discord.gg/python)
 - [Introduction to Python](http://introtopython.org/)
