@@ -18,6 +18,7 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
+- [Better Jasmine Tests With this](https://gist.github.com/traviskaufman/11131303)
 
 ## Advanced Programming
 
