@@ -44,7 +44,7 @@ repos:
       - id: anti-trojan-source
         exclude: docs/diagrams/.*\.(png)$
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.14
+    rev: 0.7.15
     hooks:
       - id: mdformat
         additional_dependencies:
