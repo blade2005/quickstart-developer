@@ -39,3 +39,9 @@ A repository for helping new developers/engineers to quickly start up improving 
 
 - [Learn React](https://scrimba.com/learn/learnreact)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Terraform
+
+- [Terraform Best Practices](https://www.terraform-best-practices.com/code-structure)
+- [Google Terraform Best Practices](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
+- [Terraform Best Practices by Ashish Patel](https://medium.com/devops-mojo/terraform-best-practices-top-best-practices-for-terraform-configuration-style-formatting-structure-66b8d938f00c)
