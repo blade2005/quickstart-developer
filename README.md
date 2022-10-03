@@ -20,6 +20,11 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
 - [Better Jasmine Tests With this](https://gist.github.com/traviskaufman/11131303)
 
+## Testing
+
+- [What Is Software Testing](https://www.softwaretestingmaterial.com/software-testing/)
+- [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+
 ## Advanced Programming
 
 - [Refactoring.Guru](https://refactoring.guru/)
@@ -39,6 +44,7 @@ A repository for helping new developers/engineers to quickly start up improving 
 
 - [Learn React](https://scrimba.com/learn/learnreact)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Testing React Apps](https://jestjs.io/docs/tutorial-react)
 
 ## Terraform
 
