@@ -2,6 +2,12 @@
 
 A repository for helping new developers/engineers to quickly start up improving their skills.
 
+## Git
+
+ - [Writing Git Commit Messages](https://cbea.ms/git-commit/)
+ - [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+ - [Art of writing a good commit message](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
+
 ## Learning Python
 
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
