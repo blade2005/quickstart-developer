@@ -37,6 +37,19 @@ Below we will address these steps individually.
 - [Terminal 101 — The Setup Guide that will Boost your Workflow](https://itnext.io/terminal-101-the-setup-guide-that-will-boost-your-workflow-12df2570052)
 - [Getting started with oh-my-zsh](https://dienbui.medium.com/using-oh-my-zsh-f65be6460d3f)
 
+### Shell Tools
+
+- [Sed](https://www.grymoire.com/Unix/Sed.html)
+- [jq](https://lzone.de/cheat-sheet/jq)
+- [grep](https://www.eriwen.com/tools/grep-is-a-beautiful-tool/)
+  - [Regex primer](http://marvin.cs.uidaho.edu/~heckendo/Handouts/regex.html)
+- [find](https://www.eriwen.com/productivity/find-is-a-beautiful-tool/)
+- [man](https://phoenixnap.com/kb/linux-man)
+- [vim](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-vim-101-a-beginners-guide-to-vim)
+  - Yes there's a lot more to vim, start slow.
+- [awk](https://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/)
+- [GNU Tools](https://www.gnu.org/software/software.html)
+
 ## Git
 
 - [Writing Git Commit Messages](https://cbea.ms/git-commit/)
