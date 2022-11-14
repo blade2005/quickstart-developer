@@ -69,6 +69,8 @@ Below we will address these steps individually.
 - [Python Reddit](https://www.reddit.com/r/python/)
 - [r/python discord](https://discord.gg/python)
 - [Introduction to Python](http://introtopython.org/)
+- [Koans Part 1](https://github.com/arachnegl/python-koans)
+- [Koans Part 2](https://github.com/gregmalcolm/python_koans)
 
 ## Learning Javascript/Typescript
 
@@ -77,6 +79,11 @@ Below we will address these steps individually.
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
 - [Better Jasmine Tests With this](https://gist.github.com/traviskaufman/11131303)
+- [Koans](https://github.com/paytonrules/typescript.koans)
+
+## Learning Ruby
+
+- [Koans](http://rubykoans.com/)
 
 ## Testing
 
