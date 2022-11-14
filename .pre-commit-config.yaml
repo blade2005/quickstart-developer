@@ -52,3 +52,11 @@ repos:
           - mdformat-gfm
           - mdformat-toc
           - mdformat-config
+  - repo: local
+    hooks:
+      - id: git-diff
+        name: git diff
+        entry: git diff --exit-code
+        language: system
+        pass_filenames: false
+        always_run: true
