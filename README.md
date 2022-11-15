@@ -26,6 +26,12 @@ Below we will address these steps individually.
 
 *Adapted from [The Five Steps of Troubleshooting](https://www.aimetis.com/webhelp/aira/v5/en/troubleshooting/Troubleshooting_Guidelines/The_Five_Steps_of_Troubleshooting.htm)*
 
+## Asking for help
+As an engineer you will eventually hit things you just don't know and your google-fu is failing you.
+
+[How to ask questions is a critical skills](https://medium.com/init-career/how-to-ask-senior-engineers-good-questions-b5ef62382e60)
+
+
 ## Shells
 
 ### Bash
