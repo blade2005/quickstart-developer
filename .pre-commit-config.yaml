@@ -39,7 +39,7 @@ repos:
     hooks:
       - id: git-secrets
   - repo: https://github.com/lirantal/anti-trojan-source
-    rev: v1.4.0
+    rev: v1.4.1
     hooks:
       - id: anti-trojan-source
         exclude: docs/diagrams/.*\.(png)$
