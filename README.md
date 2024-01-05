@@ -38,7 +38,6 @@ Standards are great and help make a project flow better. If you are starting a f
 
 - [Makefile](https://www.gnu.org/software/make/manual/html_node/Standard-Targets.html), one standard when working on open source repositories is common conventions. Common make targets also flow over to other systems such as ruby, python. Though perl chose a different standard with `make test` instead of `make check`. Generally follow these standard targets unless you need to disregard them.
 
-
 ## Shells
 
 ### Bash
