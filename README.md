@@ -32,6 +32,12 @@ As an engineer you will eventually hit things you just don't know and your googl
 
 [How to ask questions is a critical skills](https://medium.com/init-career/how-to-ask-senior-engineers-good-questions-b5ef62382e60)
 
+## Standards
+
+Standards are great and help make a project flow better. If you are starting a fresh project try to follow all of the best practices and get them in place before a lot of code is there. It's much hard to follow best practices after the fact. The caveat to this is when working on  an existing project do not, try to change to some new standard. Follow the existing set of principles in place and get to know the project and it's developers before trying to enfore some new "standard" on them.
+
+- [Makefile](https://www.gnu.org/software/make/manual/html_node/Standard-Targets.html), one standard when working on open source repositories is common conventions. Common make targets also flow over to other systems such as ruby, python. Though perl chose a different standard with `make test` instead of `make check`. Generally follow these standard targets unless you need to disregard them.
+
 ## Shells
 
 ### Bash
